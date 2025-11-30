@@ -99,5 +99,4 @@ EDA was conducted to identify trends, correlations, and outliers among SDG score
 
 ## Contributors
 - **Charita Beri** **Sharmila Pentapalli** **Vibha Srinivasa** **Vedang Sunil Shinde**
-- **Teammates:** *Add names here*  
-- **Repository ID:** *Add your GitHub repo link or ID*
+
